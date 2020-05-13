@@ -23,11 +23,11 @@
 }
 
 .spoiler.collapsed .spoiler-title:before {
-    content: "Show ";
+    content: "顯示資訊 ";
 }
 
 .spoiler.expanded .spoiler-title:before {
-    content: "Hide ";
+    content: "隱藏資訊 ";
 }
 
 .spoiler .spoiler-content {
